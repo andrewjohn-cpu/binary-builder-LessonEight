@@ -1,0 +1,17 @@
+database - MySql, POstgresql, MongoDB, SQlite, db.json(json server)
+
+db.json - json server
+
+arrays - [], methods: push(), shift(), splice(), pop()(destructive methods), slice(), map()(non-destructive method) for...in, for...of
+objects - {}
+loops - 
+swagger - document your API.
+postman - token, testing API/endpoints(CRUD)
+API(endpoints) - Application Programming Interface
+fetch()
+status/messages - 200(ok), 404(not found error), 
+get all - http://localhost:3000/recipes
+get one recipe - http://localhost:3000/recipes/<recipe_id>
+create new recipe - http://localhost:3000/recipes
+update pristine/original recipe - http://localhost:3000/recipes/<recipe_id>
+delete original recipe - http://localhost:3000/recipes/<recipe_id>

@@ -1,0 +1,45 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "recipeName": "fish",
+      "recipeImage": "<image_link>",
+      "recipeIngredients": [
+        "fish",
+        "onions",
+        "tomatoes"
+      ],
+      "recipePreparationInstruction": [
+        "step 1",
+        "step 2"
+      ]
+    },
+    {
+      "id": "2",
+      "recipeName": "rice",
+      "recipeImage": "<image_link>",
+      "recipeIngredients": [
+        "rice",
+        "onions",
+        "tomatoes"
+      ],
+      "recipePreparationInstruction": [
+        "step 1",
+        "step 2"
+      ]
+    },
+    {
+      "id": "85a9",
+      "recipeName": "testing this api",
+      "recipeImage": "<image_link>",
+      "recipeIngredients": [
+        "test 1",
+        "test2"
+      ],
+      "recipePreparationInstruction": [
+        "step 1",
+        "step 2"
+      ]
+    }
+  ]
+}
